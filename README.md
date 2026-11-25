@@ -1,4 +1,4 @@
-# 🖥️ Todo API – Finals_Q1 (Backend)
+# 🖥️ Todo App List API – (Backend)
 
 This project serves as the backend API for a Todo application built with **ASP.NET Core Web API**.
 It supports CRUD operations, blockchain-like validation, and proof-of-work security.
